@@ -1,2 +1,2 @@
 # PracticeGit
-This is my first GitHub repository.
+Create a new GitHub repository.
